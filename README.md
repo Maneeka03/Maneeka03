@@ -1,3 +1,8 @@
+<!-- Profile Banner or Lottie Animation -->
+<p align="center">
+  <img src="https://lottie.host/55a5891c-cd15-4086-97eb-85fd1a89bfb2/IKllkTXP6E.json" height="250" alt="Animated Lottie Dev">
+</p>
+
 # 💫 About Me:
 👩‍💻 Hi there! I'm **Neeharika Joshi**, a passionate Computer Engineering student at Marwadi University with a strong focus on full-stack development, AI-powered solutions, and user-centric product design. I specialize in the **MERN stack** and have developed several innovative projects—from smart home automation to AI-driven kitchen systems.  
 🏆 Awarded at national-level hackathons and recognized as **Intern of the Month**, I thrive on building scalable, real-world solutions. With hands-on experience in **ReactJS, Node.js, MongoDB, and Firebase**, I love turning ideas into impactful software.  
@@ -13,13 +18,17 @@
 ---
 
 ## 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Lifelong+Learner&center=true&width=500&height=45">
+</p>
+
 **Languages & Frontend:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Backend & Database:**  
@@ -38,31 +47,40 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-**AI / Data Science / Hardware:**  
+**Extras:**  
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maneeka03&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maneeka03&theme=rose_pine&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeka03&theme=rose_pine&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maneeka03&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maneeka03&theme=rose_pine&hide_border=false" height="160">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeka03&theme=rose_pine&hide_border=false&layout=compact" height="140">
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Maneeka03&theme=flat&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maneeka03&theme=flat&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
 ### ✍️ Dev Quote of the Day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Maneeka03&icon=0&color=0)](https://visitcount.itsvg.in)
+### 📈 Profile Visitor Counter
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Maneeka03&icon=0&color=0" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with 💜 using GPRM (https://gprm.itsvg.in) -->

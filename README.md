@@ -1,80 +1,145 @@
-# 💫 About Me:
-👩‍💻 Hi there! I'm **Neeharika Joshi**, a passionate Computer Engineering student at Marwadi University with a strong focus on full-stack development, AI-powered solutions, and user-centric product design. I specialize in the **MERN stack** and have developed several innovative projects—from smart home automation to AI-driven kitchen systems.  
-🏆 Awarded at national-level hackathons and recognized as **Intern of the Month**, I thrive on building scalable, real-world solutions. With hands-on experience in **ReactJS, Node.js, MongoDB, and Firebase**, I love turning ideas into impactful software.  
-💬 I’m also actively involved in communities like **GDSC**, where I host events and collaborate with fellow tech enthusiasts. Let's connect and build something amazing!
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="✨" width="25" height="25" /> About Me:
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Neeharika+Joshi+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+👩‍💻 **Computer Engineering Student** at Marwadi University with a passion for creating **innovative digital solutions**
+
+🎯 **Specializing in:** Full-stack development, AI-powered applications, and user-centric product design
+
+🏗️ **Tech Focus:** MERN Stack development with hands-on experience in building scalable applications
+
+🏆 **Achievements:** 
+- National-level hackathon winner 🥇
+- **Intern of the Month** recipient 🌟
+- Active **GDSC** community leader and event host
+
+💡 **Current Mission:** Transforming ideas into impactful software solutions that make a difference
+
+<br clear="both"/>
 
 ---
 
 ## 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/neeharika_40882)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeharika-joshi-44aa65269)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshineeharika981@gmail.com)
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/neeharika_40882)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/neeharika-joshi-44aa65269)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:joshineeharika981@gmail.com)
+
+</div>
 
 ---
 
-## 💻 Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" height="25" /> Tech Stack:
 
-### 🔹 Languages & Frontend  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<img align="right" alt="Tech" width="300" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif">
 
-### 🔹 Backend & Database  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" height="20" /> Frontend & Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,bootstrap" />
+</p>
 
-### 🔹 Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="20" height="20" /> Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
 
-### 🔹 AI / Data Science / Hardware  
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="20" height="20" /> Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,netlify" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="20" height="20" /> AI & Hardware
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,arduino,fastapi" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+</p>
+
+<br clear="both"/>
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maneeka03&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maneeka03&theme=rose_pine&hide_border=false" height="180px"/>
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="25" height="25" /> GitHub Analytics:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeka03&theme=rose_pine&hide_border=false&layout=compact" height="140px"/>
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Maneeka03&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Neeharika's GitHub Stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maneeka03&layout=compact&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Maneeka03&theme=dark&hide_border=true&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="Neeharika's Streak Stats" />
+</div>
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="25" height="25" /> Achievements:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maneeka03&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maneeka03&theme=flat&no-frame=true&margin-w=10" />
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="25" height="25" /> Daily Inspiration:
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote_category=programming" />
+</div>
 
 ---
 
-### ✍️ Dev Quote of the Day:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<div align="center">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="25" height="25" /> Thanks for Visiting!
+
+<img src="https://komarev.com/ghpvc/?username=Maneeka03&label=Profile%20Views&color=A855F7&style=flat" alt="Profile Views" />
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Maneeka03&icon=0&color=0" />
-</p>
+*"The best way to predict the future is to invent it."* - Alan Kay
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" />
+
+**Let's build something amazing together!**
+
+</div>
+
+---
+
+<!-- Snake Animation Setup Instructions:
+1. Go to your GitHub profile repository (username/username)
+2. Create .github/workflows/snake.yml with the following content:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Maneeka03
+          svg_out_path: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
+
+<!-- Proudly crafted with modern animations and enhanced styling -->
